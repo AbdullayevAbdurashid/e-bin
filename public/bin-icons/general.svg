@@ -1,0 +1,13 @@
+<!-- public/bin-icons/general.svg -->
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="20" cy="20" r="20" fill="white"/>
+  <path d="M28 14H12M26 14V28C26 29.1 25.1 30 24 30H16C14.9 30 14 29.1 14 28V14M19 14V12C19 11.4477 19.4477 11 20 11C20.5523 11 21 11.4477 21 12V14" stroke="#FC3F1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
+
+<svg  width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<g transform="translate(0.000000,500.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+</g>
+</svg>

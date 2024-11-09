@@ -1,0 +1,46 @@
+/* src/index.css */
+:root {
+  --primary-color: #FFDB4D;
+  --background-color: #FFFFFF;
+  --text-color: #333333;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.plus_logo{
+  width: 20px;
+  height: 20px;
+}
+@font-face {
+  font-family: 'YS Text';
+  src: url('https://yastatic.net/s3/home/fonts/ys/1/text-regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'YS Text';
+  src: url('https://yastatic.net/s3/home/fonts/ys/1/text-medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+body {
+  font-family: 'YS Text', -apple-system, system-ui, sans-serif;
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
